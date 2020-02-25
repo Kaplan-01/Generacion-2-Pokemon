@@ -821,6 +821,295 @@
             "name": "This is the last evolution"
           }
         ]
+      },{
+        "id": 172,
+        "num": "172",
+        "name": "Pichu",
+        "img": "http://www.serebii.net/pokemongo/pokemon/172.png",
+        "type":
+        [
+          "Electric"
+        ],
+        "height": "0.3 m",
+        "weight": "2 kg",
+        "candy": "Pichu Candy",
+        "candy_count": null,
+        "egg": "2 km",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
+        "weaknesses":
+        [
+          "Ground"
+        ],
+        "prev_evolution":
+        [
+          {
+            "num": "0",
+            "name": "This is the first"
+          }
+        ],
+        "next_evolution":
+        [
+          {
+            "num": "025",
+            "name": "Pikachu"
+          },
+          {
+            "num": "026",
+            "name": "Raichu"
+          }
+        ]
+      },
+      {
+        "id": 173,
+        "num": "173",
+        "name": "Cleffa",
+        "img": "http://www.serebii.net/pokemongo/pokemon/173.png",
+        "type":
+        [
+          "Fairy"
+        ],
+        "height": "0.3 m",
+        "weight": "3 kg",
+        "candy": "Cleffa Candy",
+        "candy_count": 25,
+        "egg": "2 km",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
+        "weaknesses":
+        [
+          "Steel",
+          "Poison"
+        ],
+        "prev_evolution":
+        [
+          {
+            "num": "0",
+            "name": "This is the first"
+          }
+        ],
+        "next_evolution":
+        [
+          {
+            "num": "035",
+            "name": "Clefairy"
+          },
+          {
+            "num": "036",
+            "name": "Clefable"
+          }
+        ]
+      },
+      {
+        "id": 174,
+        "num": "174",
+        "name": "Igglybuff",
+        "img": "http://www.serebii.net/pokemongo/pokemon/174.png",
+        "type":
+        [
+          "Normal",
+          "Fairy"
+        ],
+        "height": "0.3 m",
+        "weight": "1 kg",
+        "candy": "Igglybuff Candy",
+        "candy_count": 25,
+        "egg": "2 km",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
+        "weaknesses":
+        [
+          "Steel",
+          "Poison"
+        ],
+        "prev_evolution":
+        [
+          {
+            "num": "0",
+            "name": "This is the first"
+          }
+        ],
+        "next_evolution":
+        [
+          {
+            "num": "039",
+            "name": "Jigglypuff"
+          },
+          {
+            "num": "036",
+            "name": "Wigglytuff"
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "num": "175",
+        "name": "Togepi",
+        "img": "http://www.serebii.net/pokemongo/pokemon/175.png",
+        "type":
+        [
+          "Fairy"
+        ],
+        "height": "0.3 m",
+        "weight": "1.5 kg",
+        "candy": "Igglybuff Candy",
+        "candy_count": 25,
+        "egg": "2 km",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
+        "weaknesses":
+        [
+          "Steel",
+          "Poison"
+        ],
+        "prev_evolution":
+        [
+          {
+            "num": "0",
+            "name": "This is the first"
+          }
+        ],
+        "next_evolution":
+        [
+          {
+            "num": "176",
+            "name": "Togetic"
+          }
+        ]
+      },
+      {
+        "id": 176,
+        "num": "176",
+        "name": "Togetic",
+        "img": "http://www.serebii.net/pokemongo/pokemon/176.png",
+        "type":
+        [
+          "Fairy",
+          "Flying"
+        ],
+        "height": "0.6 m",
+        "weight": "3.2 kg",
+        "candy": "Igglybuff Candy",
+        "candy_count": null,
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
+        "weaknesses":
+        [
+          "Steel",
+          "Ice",
+          "Poison",
+          "Rock",
+          "Electric"
+        ],
+        "prev_evolution":
+        [
+          {
+            "num": "175",
+            "name": "Togepi"
+          }
+        ],
+        "next_evolution":
+        [
+          {
+            "num": "0",
+            "name": "This is the last evolution"
+          }
+        ]
+      },
+      {
+        "id": 177,
+        "num": "177",
+        "name": "Natu",
+        "img": "http://www.serebii.net/pokemongo/pokemon/177.png",
+        "type":
+        [
+          "Psychic",
+          "Flying"
+        ],
+        "height": "0.2 m",
+        "weight": "2 kg",
+        "candy": "Natu Candy",
+        "candy_count": 50,
+        "egg": "2 km",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
+        "weaknesses":
+        [
+          "Dark",
+          "Ice",
+          "Rock",
+          "Electric",
+          "Ghost"
+        ],
+        "prev_evolution":
+        [
+          {
+            "num": "0",
+            "name": "This is the first"
+          }
+        ],
+        "next_evolution":
+        [
+          {
+            "num": "178",
+            "name": "Xatu"
+          }
+        ]
+      },
+      {
+        "id": 178,
+        "num": "178",
+        "name": "Xatu",
+        "img": "http://www.serebii.net/pokemongo/pokemon/178.png",
+        "type":
+        [
+          "Psychic",
+          "Flying"
+        ],
+        "height": "1.5 m",
+        "weight": "15 kg",
+        "candy": "Natu Candy",
+        "candy_count": null,
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
+        "weaknesses":
+        [
+          "Dark",
+          "Ice",
+          "Rock",
+          "Electric",
+          "Ghost"
+        ],
+        "prev_evolution":
+        [
+          {
+            "num": "177",
+            "name": "Natu"
+          }
+        ],
+        "next_evolution":
+        [
+          {
+            "num": "0",
+            "name": "This is the last evolution"
+          }
+        ]
       }
     ]
 }
