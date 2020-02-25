@@ -958,7 +958,7 @@
         ],
         "height": "0.3 m",
         "weight": "1.5 kg",
-        "candy": "Igglybuff Candy",
+        "candy": "Togepi Candy",
         "candy_count": 25,
         "egg": "2 km",
         "spawn_chance": 0.69,
@@ -3511,7 +3511,7 @@
     {
       "id": 251,
       "num": "251",
-      "name": "Ho-Oh",
+      "name": "Celebi",
       "img": "http://www.serebii.net/pokemongo/pokemon/251.png",
       "type": [
         "Psiquic",
