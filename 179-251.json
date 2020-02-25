@@ -21,7 +21,13 @@
       ],
       "weaknesses": [
         "Earth"
-      ],
+      ],"prev_evolution":
+        [
+          {
+            "num": "0",
+            "name": "This is the first"
+          }
+        ],
       "next_evolution": [
         {
           "num": "180",
