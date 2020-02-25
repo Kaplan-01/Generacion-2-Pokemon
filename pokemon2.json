@@ -15,10 +15,10 @@
         "candy": "Chikorita Candy",
         "candy_count": 25,
         "egg": "2 km",
-        "spawn_chance": 0.69,  
-        "avg_spawns": 69, 
-        "spawn_time": "20:00",  
-        "multipliers": [1.96],  
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Fire",
@@ -60,10 +60,10 @@
         "candy": "Chikorita Candy",
         "candy_count": 100,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.69,  
-        "avg_spawns": 69,  
-        "spawn_time": "20:00",  
-        "multipliers": [1.96],  
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Fire",
@@ -101,10 +101,10 @@
         "candy": "Chikorita Candy",
         "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.69, 
-        "avg_spawns": 69,  
-        "spawn_time": "20:00",  
-        "multipliers": [1.96],  
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Fire",
@@ -146,10 +146,10 @@
         "candy": "Cyndaquil Candy",
         "candy_count": 25,
         "egg": "2 km",
-        "spawn_chance": 0.69,  
-        "avg_spawns": 69,  
-        "spawn_time": "20:00",  
-        "multipliers": [1.96],  
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Ground",
@@ -189,10 +189,10 @@
         "candy": "Cyndaquil Candy",
         "candy_count": 100,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.69, 
-        "avg_spawns": 69,  
-        "spawn_time": "20:00",  
-        "multipliers": [1.96],  
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Ground",
@@ -228,10 +228,10 @@
         "candy": "Cyndaquil Candy",
         "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.69, 
-        "avg_spawns": 69,  
-        "spawn_time": "20:00",  
-        "multipliers": [1.96],  
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Ground",
@@ -271,10 +271,10 @@
         "candy": "Totodile Candy",
         "candy_count": 25,
         "egg": "3 km",
-        "spawn_chance": 0.30,  
-        "avg_spawns": 49,  
-        "spawn_time": "15:00",  
-        "multipliers": [1.96],  
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Grass",
@@ -313,10 +313,10 @@
         "candy": "Totodile Candy",
         "candy_count": 100,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.61,
-        "avg_spawns": 23,  
-        "spawn_time": "03:45", 
-        "multipliers": [9.10],
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Grass",
@@ -351,10 +351,10 @@
         "candy": "Totodile Candy",
         "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.93,  
-        "avg_spawns": 10,  
-        "spawn_time": "10:03", 
-        "multipliers": [1.95], 
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Grass",
@@ -393,10 +393,10 @@
         "candy": "Sentret Candy",
         "candy_count": 25,
         "egg": "3 km",
-        "spawn_chance": 0.54, 
-        "avg_spawns": 34, 
-        "spawn_time": "11:10", 
-        "multipliers": [1.23],  
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Fighting"
@@ -425,15 +425,15 @@
         [
           "Normal"
         ],
-        "height": "1.80 m",
-        "weight": "32.0 kg",
+        "height": "1.8 m",
+        "weight": "32.5 kg",
         "candy": "Sentret Candy",
-        "candy_count": 89,
+        "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.20,
-        "avg_spawns": 20,
-        "spawn_time": "12:33", 
-        "multipliers": [1.20], 
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Fighting"
@@ -468,10 +468,10 @@
         "candy": "Hoothoot Candy",
         "candy_count": 50,
         "egg": "3 km",
-        "spawn_chance": 1.90,
-        "avg_spawns": 89,
-        "spawn_time": "11:55",
-        "multipliers": [1.20],
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Ice",
@@ -508,10 +508,10 @@
         "candy": "Hoothoot Candy",
         "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.54, 
-        "avg_spawns": 10, 
-        "spawn_time": "12:00",  
-        "multipliers": [1.23], 
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Ice",
@@ -548,10 +548,10 @@
         "candy": "Ledyba Candy",
         "candy_count": 25,
         "egg": "3 km",
-        "spawn_chance": 0.20, 
-        "avg_spawns": 10, 
-        "spawn_time": "03:45", 
-        "multipliers": [1.95],
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Rock",
@@ -590,10 +590,10 @@
         "candy": "Ledyba Candy",
         "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.30, 
-        "avg_spawns": 92,
-        "spawn_time": "14:70",
-        "multipliers": [0.90], 
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Rock",
@@ -632,10 +632,10 @@
         "candy": "Spinarak Candy",
         "candy_count": 50,
         "egg": "3 km",
-        "spawn_chance": 0.30, 
-        "avg_spawns": 34, 
-        "spawn_time": "03:45", 
-        "multipliers": [1.03], 
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Fire",
@@ -671,12 +671,12 @@
         "height": "1.1 m",
         "weight": "33.5 kg",
         "candy": "Spinarak Candy",
-        "candy_count": 89,
+        "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 0.20, 
-        "avg_spawns": 45, 
-        "spawn_time": "09:50", 
-        "multipliers": [1.20], 
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Fire",
@@ -714,10 +714,10 @@
         "candy": "Zubat Candy",
         "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 9.30,  
-        "avg_spawns": 45,  
-        "spawn_time": "09:50", 
-        "multipliers": [1.03], 
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Ice",
@@ -759,10 +759,10 @@
         "candy": "Chinchou Candy",
         "candy_count": 50,
         "egg": "3 km",
-        "spawn_chance": 0.20,
-        "avg_spawns": 20,
-        "spawn_time": "11:10",
-        "multipliers": [1.20],
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Ground",
@@ -798,10 +798,10 @@
         "candy": "Chinchou Candy",
         "candy_count": null,
         "egg": "Not in Eggs",
-        "spawn_chance": 2.90, 
-        "avg_spawns": 89, 
-        "spawn_time": "03:45", 
-        "multipliers": [9.10], 
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.96],
         "weaknesses":
         [
           "Ground",
